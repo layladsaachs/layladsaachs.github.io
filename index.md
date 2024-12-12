@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is Your Name and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is computer_science.
+This is my home page! My name is Layla Dsaachs and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is computer_science.
 
 ## Computer Science Projects
 
